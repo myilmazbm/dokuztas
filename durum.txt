@@ -1,0 +1,2 @@
+Hamleler Kaydedilmeye başlandı
+hareketlerin kısıtlamaları getirilecek
